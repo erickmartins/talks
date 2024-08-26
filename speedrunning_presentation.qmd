@@ -47,6 +47,8 @@ format:
 # Why?
 
 ##
+Many reasons:
+
 ::: {.r-fit-text}
 - Engaging with a game you love in new terms
 - Fun competition!
