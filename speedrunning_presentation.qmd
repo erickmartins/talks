@@ -1,5 +1,5 @@
 ---
-title: "Speedrunning!"
+title: "Speedrunning is empirical science"
 author: "Erick Ratamero"
 format:
   revealjs:
@@ -44,6 +44,16 @@ format:
 
 [A completely regular speedrun with no tricks](https://www.youtube.com/watch?v=afsoa93Ycdo){.center}
 
+## Your objective could be anything
+
+- ![](speedrunning_images/any.png)
+- ![](speedrunning_images/coop.png)
+- ![](speedrunning_images/allgold.png)
+- ![](speedrunning_images/food.png)
+- ![](speedrunning_images/backwards.png)
+- ![](speedrunning_images/yamato.png)
+
+
 # Why?
 
 ##
@@ -54,6 +64,14 @@ Many reasons:
 - Fun competition!
 - Fun _cooperation_!
 - Why not, really?
+:::
+
+## Speedrunning is empirical science
+
+::: {.r-fit-text}
+- Clearly measurable outcomes (did you go faster?)
+- Lots of experimentation
+- Theory-based approach
 :::
 
 # Can _anyone_ do it?
