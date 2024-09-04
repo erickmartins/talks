@@ -117,3 +117,16 @@ $G_r$ increases, $v$ decreases sharply. Benefit of being behind someone else dec
 - Being ahead is _way less bad_ if you're climbing
 
 # Go watch some cycling! It's good.
+
+## References
+
+Kyle, C.R.: Reduction of wind resistance and power output of racing cyclists
+and runners travelling in groups. Ergonomics 22(4) (1979) 387–397
+
+McCole, S., Claney, K., Conte, J.C., Anderson, R., Hagberg, J.: Energy expenditure
+during bicycling. Journal of Applied Physiology 68(2) (1990) 748–753
+
+Olds, T.: The mathematics of breaking away and chasing in cycling. European
+journal of applied physiology and occupational physiology 77(6) (1998) 492–497
+
+Martins Ratamero E. Modelling peloton dynamics in competitive cycling: a quantitative approach. InSports Science Research and Technology Support: International Congress, Revised Selected Papers (2015) 42-56
