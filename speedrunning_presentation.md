@@ -35,13 +35,13 @@ format:
 
 ##
 
-![](speedrunning_images/la_mulana.mp4){fig-align="center"}
+![](speedrunning_images/la_mulana.mp4){fig-align="center" loop="true"}
 
 [Catpause](https://www.youtube.com/watch?v=BJM7rYZZCog){.center}
 
 ##
 
-![](speedrunning_images/tux_and_fanny.mp4){fig-align="center"}
+![](speedrunning_images/tux_and_fanny.mp4){fig-align="center" loop="true"}
 
 [A completely regular speedrun with no tricks](https://www.youtube.com/watch?v=afsoa93Ycdo){.center}
 
