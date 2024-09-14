@@ -7,6 +7,7 @@ format:
     theme: night
     transition: slide
     auto-stretch: true
+    auto-play-media: true
 ---
 
 # So what's up with speedrunning?
