@@ -55,7 +55,7 @@ format:
 ## Dinner
 ::: {.nonincremental}
 - This is not part of the program, so feel free to go rogue and eat elsewhere!
-- We recommend **Parkville Market** (Parkville Market, 1400 Park St, Hartford, CT)
+- We recommend **Parkville Market** (1400 Park St, Hartford, CT)
 :::
 
 ![](nebam_images/parkville.png){height="350" fig-align="center"}
@@ -81,7 +81,7 @@ format:
 ## Sessions
 ### Session 5 (10:30-12 PM): 
 ::: {.nonincremental}
-- **Jennifer Waters (HMS)**: Talking to biologists and microscopists about image analysis
+- **Talley Lambert (HMS)**: TBD
 - **Caroline Malin-Mayor (HHMI Janelia)**: The Motile Tracker: Towards a New Paradigm for Cell Tracking
 - **Kiya Govek (JAX)**: FAIR image data hosting in OMERO with containerized deployment and next-generation file formats
 :::
@@ -91,9 +91,9 @@ format:
 ### Panel Discussion (1:30-2:30 PM): Bioimage analysis in the era of AI: opportunities, challenges, pitfalls
 ::: {.nonincremental}
 - **Moderator: Peter Sobolewski (JAX)**
-- **Name 1**
-- **Name 2**
-- **Name 3**
+- **Brian Northan (True North)**
+- **Carsen Stringer (HHMI Janelia)**
+- **Fernando Cervantes (JAX)**
 :::
 2:30-3 PM: Coffee Break
 
