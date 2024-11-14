@@ -22,6 +22,12 @@ format:
 ![](nebam_images/assembly.png){height="550" fig-align="center"}
 
 # Program
+
+## Speaker instructions
+- Talks are 30 mins **total** (i.e. talk + questions)
+- I will give you signs for 5 minutes left, 2 minutes left, 1 minute left
+- Please try to keep to time!
+
 ## Sessions today
 ### Session 1 (10-11 AM):
 ::: {.nonincremental}
@@ -81,7 +87,7 @@ format:
 ## Sessions
 ### Session 5 (10:30-12 PM): 
 ::: {.nonincremental}
-- **Talley Lambert (HMS)**: TBD
+- **Talley Lambert (HMS)**: Exploring the bioimage acquisition & analysis support pipeline in an academic setting
 - **Caroline Malin-Mayor (HHMI Janelia)**: The Motile Tracker: Towards a New Paradigm for Cell Tracking
 - **Kiya Govek (JAX)**: FAIR image data hosting in OMERO with containerized deployment and next-generation file formats
 :::
